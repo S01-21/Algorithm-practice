@@ -42,5 +42,5 @@ int main(){
             mx = max(mx, area);
         }
     }
-    cout << cnt << ' ' << mx;
+    cout << cnt << '\n' << mx;
 }
